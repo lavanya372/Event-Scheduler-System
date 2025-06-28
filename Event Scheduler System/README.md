@@ -44,3 +44,6 @@ POST    /events              – create a new event
 PUT     /events/{id}         – update an existing event 
 
 DELETE  /events/{id}         – delete an event
+
+
+GitHub repository URL - 
